@@ -49,7 +49,7 @@ if btn:
 st.markdown('---')
 st.write("Made by Eyosias Mulugeta © 2024")
 
-# https://github.com/THEYCALLMEJO/BMI-calculator.git
+ #https://github.com/THEYCALLMEJO/BMI-calculator.git
     
 
 

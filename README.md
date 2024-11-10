@@ -1,4 +1,4 @@
-
+![App's Demo](demo.png)
 # Welcome to BMI calculator👋
 # BMI Calculator
 
