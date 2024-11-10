@@ -1,4 +1,4 @@
-![App's Demo](demo.png)
+![App's Demo][(demo.png)](https://raw.githubusercontent.com/THEYCALLMEJO/BMI-calculator/master/demo.png)
 # Welcome to BMI calculator👋
 # BMI Calculator
 
